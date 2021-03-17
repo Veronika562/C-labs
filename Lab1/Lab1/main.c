@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 #include <math.h>
-#include <alg.h>
+#include <stdlib.h>
 
 int main() {
 	int dividend, divisor;
@@ -65,7 +65,8 @@ int main() {
 		}
 		if (i == 0) {
 			printf("|");
-			for (int j = 0; j < max(quotient_len, divisor_len); j++) {
+			int width = (quotient_len > divisor_len) ? quotient_len : divisor_len;
+			for (int j = 0; j < width; j++) {
 				printf("-");
 			}
 		}
