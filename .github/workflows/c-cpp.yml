@@ -13,5 +13,13 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: make
+    - name: make_lab_1
       run: make -C Lab1/Lab1/
+    - name: make_lab_2
+      run: make -C Lab2/Calculations/Calculations/
+    - name: make_lab_3
+      run: make -C lab3/
+    - name: make_lab_4_1
+      run: make -C lab4/task1/
+    - name: make_lab_4_2
+      run: make -C lab4/task2/
