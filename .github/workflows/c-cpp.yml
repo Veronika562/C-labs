@@ -25,5 +25,5 @@ jobs:
       run: make -C lab4/task2/
     - name: make_lab_5
       run: make -C lab5/
-   - name: make_lab_6
+    - name: make_lab_6
       run: make -C lab6/
