@@ -6,14 +6,20 @@
 
 int main() {
     _main();
-    FILE* file1 = fopen("text_files/data.txt", "rb");
-    FILE* file2 = fopen("text_files/out.txt", "rb");
+    FILE* file1 = fopen("text_files/data.txt", "r");
+    FILE* file2 = fopen("text_files/out.txt", "r");
     assert(file1 != NULL);
     assert(file2 != NULL);
-    char ch1, ch2;
-    while (ch1 != EOF || ch2 != EOF) {
-        ch1 = getc(file1);
-        ch2 = getc(file2);
+    //char ch1, ch2;
+    char line1[100];
+    char line2[100];
+    while (feof(file1) == 0 && feof(file2) == 0) {
+//         ch1 = getc(file1);
+//         ch2 = getc(file2);
+        if (fscanf(file1, "%s", line1) && fscanf(file2, "%s", line2)) {
+			assert(strcmp(line1, line2) == 0);
+		}
+        assert(strcmp(line1, line2) == 0);
         //assert(ch1 == ch2);
     }
     fclose(file1);
