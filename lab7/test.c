@@ -11,13 +11,16 @@ int main() {
     assert(file1 != NULL);
     assert(file2 != NULL);
     char ch1, ch2;
+    FILE* check = fopen("check.txt", "w");
     while (ch1 != EOF || ch2 != EOF) {
         ch1 = getc(file1);
         ch2 = getc(file2);
-        assert(ch1 == ch2);
+        fprintf(check, "%c %c\n", ch1, ch2);
+        //assert(ch1 == ch2);
     }
     fclose(file1);
     fclose(file2);
+    fclose(check);
 
     FILE* file3 = fopen("text_files/test_con_out.txt", "rb");
     FILE* file4 = fopen("text_files/con_out.txt", "rb");
