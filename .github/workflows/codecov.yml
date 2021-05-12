@@ -13,4 +13,5 @@ jobs:
         uses: codecov/codecov-action@v1
         with:
           files: 
-              ./lab7/person.c.gcov ./lab7/main.c.gcov
+              ./lab7/person.c.gcov
+              ./lab7/person.c.gcov
