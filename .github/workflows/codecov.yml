@@ -6,12 +6,11 @@ jobs:
     steps:
       - name: Fetch
         uses: actions/checkout@master
-      - name: test
+      - name: Test
         run: |
-          make -C lab7/
-      - name: upload
+          make -C lab7
+      - name: Upload
         uses: codecov/codecov-action@v1
         with:
           files: 
-              ./lab7/person.c.gcov
-              ./lab7/main.c.gcov
+              ./lab7/person.c.gcov ./lab7/main.c.gcov
