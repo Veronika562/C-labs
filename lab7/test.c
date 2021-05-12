@@ -6,7 +6,7 @@
 
 int main() {
     _main();
-    FILE* file1 = fopen("text_files/data.txt", "br");
+    FILE* file1 = fopen("text_files/data.txt", "rb");
     FILE* file2 = fopen("text_files/out.txt", "rb");
     assert(file1 != NULL);
     assert(file2 != NULL);
