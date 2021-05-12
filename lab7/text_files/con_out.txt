@@ -1,0 +1,170 @@
+Enter a number:
+1. Add person.
+2. Create a connection.
+3. Destroy a connection.
+4. Find people.
+5. Show circle of contacts.
+6. Exit.
+Enter person's name:
+Enter person's city:
+Enter person's education:
+Enter person's job:
+Enter person's interests:
+Enter "6" to exit the program.
+Enter any other character to return to the menu.
+Enter a number:
+1. Add person.
+2. Create a connection.
+3. Destroy a connection.
+4. Find people.
+5. Show circle of contacts.
+6. Exit.
+Enter first person's name:
+Enter second person's name:
+Enter "6" to exit the program.
+Enter any other character to return to the menu.
+Enter a number:
+1. Add person.
+2. Create a connection.
+3. Destroy a connection.
+4. Find people.
+5. Show circle of contacts.
+6. Exit.
+Enter first person's name:
+Person with this name does not exists. Try again:
+Enter second person's name:
+Person with this name does not exists. Try again:
+Enter "6" to exit the program.
+Enter any other character to return to the menu.
+Enter a number:
+1. Add person.
+2. Create a connection.
+3. Destroy a connection.
+4. Find people.
+5. Show circle of contacts.
+6. Exit.
+Enter first person's name:
+Enter second person's name:
+Person with this name does not exists. Try again:
+Enter "6" to exit the program.
+Enter any other character to return to the menu.
+Enter a number:
+1. Add person.
+2. Create a connection.
+3. Destroy a connection.
+4. Find people.
+5. Show circle of contacts.
+6. Exit.
+Enter first person's name:
+Person with this name does not exists. Try again:
+Enter second person's name:
+Enter "6" to exit the program.
+Enter any other character to return to the menu.
+Enter a number:
+1. Add person.
+2. Create a connection.
+3. Destroy a connection.
+4. Find people.
+5. Show circle of contacts.
+6. Exit.
+Choose searching criteria:
+1. Interests.
+2. Location.
+3. Education.
+4. Job.
+Enter an interest:
+Myron Gerasimov
+Janice McChristian
+Enter "6" to exit the program.
+Enter any other character to return to the menu.
+Enter a number:
+1. Add person.
+2. Create a connection.
+3. Destroy a connection.
+4. Find people.
+5. Show circle of contacts.
+6. Exit.
+Choose searching criteria:
+1. Interests.
+2. Location.
+3. Education.
+4. Job.
+Enter a city:
+Nail Baryshnikov
+Samira Sokolova
+Rodion Zotov
+Vladislav Abramov
+Enter "6" to exit the program.
+Enter any other character to return to the menu.
+Enter a number:
+1. Add person.
+2. Create a connection.
+3. Destroy a connection.
+4. Find people.
+5. Show circle of contacts.
+6. Exit.
+Choose searching criteria:
+1. Interests.
+2. Location.
+3. Education.
+4. Job.
+Enter an education:
+Samira Sokolova
+Vladislav Abramov
+Enter "6" to exit the program.
+Enter any other character to return to the menu.
+Enter a number:
+1. Add person.
+2. Create a connection.
+3. Destroy a connection.
+4. Find people.
+5. Show circle of contacts.
+6. Exit.
+Choose searching criteria:
+1. Interests.
+2. Location.
+3. Education.
+4. Job.
+Enter a job:
+Rodion Zotov
+Enter "6" to exit the program.
+Enter any other character to return to the menu.
+Enter a number:
+1. Add person.
+2. Create a connection.
+3. Destroy a connection.
+4. Find people.
+5. Show circle of contacts.
+6. Exit.
+Choose searching criteria:
+1. Interests.
+2. Location.
+3. Education.
+4. Job.
+Enter a job:
+Enter "6" to exit the program.
+Enter any other character to return to the menu.
+Enter a number:
+1. Add person.
+2. Create a connection.
+3. Destroy a connection.
+4. Find people.
+5. Show circle of contacts.
+6. Exit.
+Enter the name of the person whose contacts you want to see:
+Myron Gerasimov
+Oliwia Jasinska
+Nail Baryshnikov
+Enter "6" to exit the program.
+Enter any other character to return to the menu.
+Enter a number:
+1. Add person.
+2. Create a connection.
+3. Destroy a connection.
+4. Find people.
+5. Show circle of contacts.
+6. Exit.
+Enter the name of the person whose contacts you want to see:
+No person with such name.
+Enter "6" to exit the program.
+Enter any other character to return to the menu.

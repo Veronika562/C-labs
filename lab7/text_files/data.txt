@@ -1,0 +1,147 @@
+Abby Muecke
+Somme
+Somme State University
+Paralegal
+Cryptology
+Contacts:
+ Myron Gerasimov
+ Danyl Miller
+
+Alida Ali
+Notodden
+Notodden State University
+Biological technician
+Histology
+Contacts:
+ Graeme Kelly
+
+Danyl Miller
+Glasson
+None
+Geophysicist
+Economy
+Contacts:
+ Graeme Kelly
+ Abby Muecke
+ Samira Sokolova
+
+Dariusz Wisniewski
+Warszawa
+Warszawa State University
+Travel consultant
+Gardening
+Contacts:
+ Vladislav Abramov
+ Jesus Wheeler
+
+Graeme Kelly
+Niddrie
+Niddrie College
+Health physicist
+Veterinary
+Contacts:
+ Danyl Miller
+ Alida Ali
+
+Janice McChristian
+Massachusetts
+Massachusetts College
+Budget analyst
+Mathematics
+Contacts:
+
+Jesus Wheeler
+Washington
+Primary
+Landscape designer
+Photography
+Contacts:
+ Nail Baryshnikov
+ Dariusz Wisniewski
+
+Myron Gerasimov
+Kursk
+Kursk State University
+Time and attendance clerk
+Mathematics
+Contacts:
+ Vladislav Abramov
+ Pelagia Tikhonova
+ Abby Muecke
+
+Nail Baryshnikov
+Minsk
+BSMU
+Magnetic resonance (MR) technologist
+Physics
+Contacts:
+ Jesus Wheeler
+ Oliwia Jasinska
+ Pelagia Tikhonova
+
+Oliwia Jasinska
+Opole
+None
+Job training specialist
+Photography
+Contacts:
+ Samira Sokolova
+ Nail Baryshnikov
+ Pelagia Tikhonova
+
+Pelagia Tikhonova
+Moscow
+None
+Acoustical carpenter
+Economy
+Contacts:
+ Myron Gerasimov
+ Vladislav Abramov
+ Oliwia Jasinska
+ Nail Baryshnikov
+
+Rodion Zotov
+Minsk
+BSUIR
+Construction equipment technician
+Robotics
+Contacts:
+
+Samira Sokolova
+Minsk
+BNTU
+Chemical equipment operator
+Robotics
+Contacts:
+ Oliwia Jasinska
+ Danyl Miller
+
+Sergey Voronkov
+Soligorsk
+Baranovichi State University
+Glass repairer
+Physics
+Contacts:
+ Vappu Reho
+ Vladislav Abramov
+
+Vappu Reho
+Tampere
+Tampere College
+Seismologist
+Physics
+Contacts:
+ Sergey Voronkov
+ Vladislav Abramov
+
+Vladislav Abramov
+Minsk
+BNTU
+Physical metallurgical engineer
+Robotics
+Contacts:
+ Myron Gerasimov
+ Pelagia Tikhonova
+ Dariusz Wisniewski
+ Vappu Reho
+ Sergey Voronkov
