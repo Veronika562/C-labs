@@ -166,7 +166,7 @@ list_t* read_from_file(char file_name[]) {
         }
         add_to_list(list, new_person);
     }
-    close(input_file);
+    fclose(input_file);
     return list;
 }
 
