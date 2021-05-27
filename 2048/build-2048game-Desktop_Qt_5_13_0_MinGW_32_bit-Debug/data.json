@@ -1,0 +1,32 @@
+{
+    "best_score": 400,
+    "prev_field": [
+        [
+            0,
+            0,
+            0,
+            4
+        ],
+        [
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            2,
+            0
+        ]
+    ],
+    "prev_has_lost": false,
+    "prev_has_won": false,
+    "prev_score": 0
+}
