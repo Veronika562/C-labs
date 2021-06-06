@@ -527,7 +527,7 @@ void Board::addNewTile()
         }
     }
 
-    int randomNum = QRandomGenerator::global()->generate() % 5;
+    int randomNum = QRandomGenerator::global()->generate() % 10;
     uint pos = empties[QRandomGenerator::global()->generate() % emptiesCounter];
     if (randomNum == 0)
     {
