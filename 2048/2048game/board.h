@@ -54,7 +54,7 @@ private:
     QLabel *scoreLabel;
     QLabel *bestScoreLabel;
     int field[4][4];
-    int score, bestScore;
+    long long score, bestScore;
     int width, height;
     bool hasWon;
     bool showingWinMessage = false;
